@@ -35,3 +35,4 @@ $resultaat = $dbh->query($sql);
     }
     ?>
 </ul>
+<a href="voegToe.php">Add more monkeys</a>
